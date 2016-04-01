@@ -21,4 +21,4 @@ In View,
 ```
 
 # **Output**
-![alt tag]()
+![alt tag](https://github.com/maheswaranapk/Android-Folding-Progress/blob/master/demo/demo.gif)
