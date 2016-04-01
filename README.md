@@ -1,6 +1,7 @@
 # **Android-Folding-Progress**
 This is a Simple Android Folding Progress Indicator.
 
+**Design Inspired from [Google loading - Material Up!](http://www.materialup.com/posts/google-loading)**
 
 # **How To use**
 Copy **FadeCircleLoading.java** to the project.
